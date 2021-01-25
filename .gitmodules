@@ -1,0 +1,4 @@
+[submodule "TRESCLOUD/ecuadorian-localization"]
+	path = TRESCLOUD/ecuadorian-localization
+	url = git@github.com:TRESCLOUD/ecuadorian-localization.git
+	branch = 14.0
