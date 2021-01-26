@@ -3,7 +3,7 @@
 
 {
     'name': 'Five9 TPV',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'POS',
     'author': 'TRESCLOUD CIA. LTDA.',
     'maintainer': 'TRESCLOUD CIA. LTDA.',
