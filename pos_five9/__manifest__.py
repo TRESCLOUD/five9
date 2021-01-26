@@ -16,6 +16,8 @@
     ],
     'data': [
         'views/js_files_link.xml',
+        # Views
+        'views/res_partner_view.xml',
     ],
     'qweb': [],
     'installable': True,
